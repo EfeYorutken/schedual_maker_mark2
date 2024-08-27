@@ -1,0 +1,15 @@
+{
+	"file_name":"corses.csv",
+	"wanted_cols":{
+		"Code": "Code",
+		"Schedule" : "Schedule",
+		"Section" : "Section",
+		"extras": {
+		}
+	},
+	"out_file" : "programs.txt",
+	"needed_courses":[
+	],
+	"wanted_courses":[
+	]
+}
