@@ -33,10 +33,10 @@ def program_has_a_break_of_length_1(program):
 
     for day in days:
         for i in range(len(day)-1):
-            if day[i+1][0] - day[i][1] < 1:
-                return False
+            if day[i+1][0] - day[i][1] > 0:
+                return True
 
-    return True
+    return False
 
 # this function will return all the functions defined in this module
 def get_crits():

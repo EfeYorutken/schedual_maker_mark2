@@ -6,9 +6,7 @@ from tabulate import *
 from graph import *
 import sys
 
-print(sys.argv)
-
-if sys.argv[1] == "fix":
+if len(sys.argv) > 1 and sys.argv[1] == "fix":
     configs = """
 {
 	"file_name":"corses_csv.csv",
@@ -44,10 +42,10 @@ def impossiblity_termination(msg="exiting due to unconstructable program"):
 def find_same(arr):
     m = {}
     for i in range(len(arr)):
-        if not arr[i] in m:
-            m[arr[i]] = i
+        if arr[i].code not in m:
+            m[arr[i].code] = i
         else:
-            return [m[i], i]
+            return [m[arr[i].code], i]
     return []
 
 def seperate(arr, i, j):
@@ -91,7 +89,7 @@ def show(program, school_begin=9, school_end=21):
             #this number should be the index in the list, but the first element is the day, so time the course begins/ends
             #-begin time + 1 (for the extra element of day at the begining) will give us which "cell" in the table should be filled with the course
             for i in range(begin-school_begin+1,end+1-school_begin):
-                res[last][i] = c.code #write the code of the course to the index calculated
+                res[last][i] = f"{c.code}_{c.section}" #write the code of the course to the index calculated
     time_headders = ["day"] + [str(x) for x in range(school_begin, school_end)] #clreating the top "label" of the table
     return tabulate(res, headers = time_headders) #return the table formated string
 
@@ -120,6 +118,8 @@ wanted_cols.append(config_cols["Code"])
 
 wanted_cols.append(config_cols["Schedule"])
 
+wanted_cols.append(config_cols["Section"])
+
 for col in [x for x in list(extra_cols.values())]:
     wanted_cols.append(col)
 
@@ -131,8 +131,10 @@ try:
 except:
     impossiblity_termination(f"csv file named {file_name} is not found")
 
+
 print(f"extracting relevant columns : {', '.join([x for x in wanted_cols])}")
 data = data.drop([c for c in data.columns if c not in wanted_cols], axis = 1)
+
 
 all_courses = [course(r[wanted_cols[0]], r[wanted_cols[1]], r[wanted_cols[2]], extra_cols) for _, r in data.iterrows()]
 

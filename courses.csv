@@ -1,0 +1,108 @@
+Year,Period,Code,Name,Section,Dept.,T,P,L,Cr,ECTS,Category,Lecturer,Room,Schedule,# of Students,Successfull,Unsuccessfull,Conditional,Withdrawn,Average,Staff ID
+2024,1,CMPE 112,Fundamentals of Programming I,01,Department of Computer Engineering,1,0,4,3,6,Course,,K085 A514-PC-L,We 14 - 16 Th 12 - 14,0,,,,,,
+2024,1,CMPE 112,Fundamentals of Programming I,02,Department of Computer Engineering,1,0,4,3,6,Course,,A514-PC-L K085,Tu 09 - 11 We 16 - 18,0,,,,,,
+2024,1,CMPE 112,Fundamentals of Programming I,03,Department of Computer Engineering,1,0,4,3,6,Course,Elif Kurtaran �zbudak ,A514-PC-L DB18,Mo 09 - 11 Fr 09 - 11,0,,,,,,3895
+2024,1,CMPE 113,Fundamentals of Programming I,01,Department of Computer Engineering,2,0,2,3,5,Course,,K085 A514-PC-L,We 14 - 16 Th 12 - 14,0,,,,,,
+2024,1,CMPE 113,Fundamentals of Programming I,02,Department of Computer Engineering,2,0,2,3,5,Course,,A514-PC-L K085,Tu 09 - 11 We 16 - 18,0,,,,,,
+2024,1,CMPE 113,Fundamentals of Programming I,03,Department of Computer Engineering,2,0,2,3,5,Course,Elif Kurtaran �zbudak ,A514-PC-L DB18,Mo 09 - 11 Fr 09 - 11,0,,,,,,3895
+2024,1,CMPE 114,Fundamentals of Programming II,01,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,A514-PC-L D026,We 18 - 20 Th 16 - 18,0,,,,,,469
+2024,1,CMPE 114,Fundamentals of Programming II,02,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,A514-PC-L D026,Tu 14 - 16 Th 18 - 20,0,,,,,,469
+2024,1,CMPE 114,Fundamentals of Programming II,03,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,D028 A514-PC-L,Mo 16 - 18 Tu 18 - 20,0,,,,,,469
+2024,1,CMPE 114,Fundamentals of Programming II,04,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,D028 A514-PC-L,Mo 18 - 20 Fr 18 - 20,0,,,,,,469
+2024,1,CMPE 201,Discrete Structures of Mathematics,01,Department of Computer Engineering,3,0,0,3,6,Course,Niyazi An�l Gezer ,DB20 K183,Mo 13 - 15 We 15 - 16,0,,,,,,3329
+2024,1,CMPE 201,Discrete Structures of Mathematics,02,Department of Computer Engineering,3,0,0,3,6,Course,Ezgi T�rkarslan ,DB18,Tu 14 - 16 Th 13 - 14,0,,,,,,2070
+2024,1,CMPE 201,Discrete Structures of Mathematics,03,Department of Computer Engineering,3,0,0,3,6,Course,Ezgi T�rkarslan ,D232 D030,Mo 11 - 13 We 15 - 16,0,,,,,,2070
+2024,1,CMPE 211,Fundamentals of Programming II,01,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,A514-PC-L D026,We 18 - 20 Th 16 - 18,0,,,,,,469
+2024,1,CMPE 211,Fundamentals of Programming II,02,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,A514-PC-L D026,Tu 14 - 16 Th 18 - 20,0,,,,,,469
+2024,1,CMPE 211,Fundamentals of Programming II,03,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,D028 A514-PC-L,Mo 16 - 18 Tu 18 - 20,0,,,,,,469
+2024,1,CMPE 211,Fundamentals of Programming II,04,Department of Computer Engineering,2,0,2,3,6,Course,Eren Ulu ,D028 A514-PC-L,Mo 18 - 20 Fr 18 - 20,0,,,,,,469
+2024,1,CMPE 223,Data Structures and Algorithms I,01,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D026,Th 09 - 12,0,,,,,,3019
+2024,1,CMPE 223,Data Structures and Algorithms I,02,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D032,Th 14 - 17,0,,,,,,3019
+2024,1,CMPE 223,Data Structures and Algorithms I,03,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D026,Fr 15 - 18,0,,,,,,3019
+2024,1,CMPE 224,Data Structures and Algorithms II,01,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D030,Th 12 - 15,0,,,,,,1814
+2024,1,CMPE 224,Data Structures and Algorithms II,02,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D028,Mo 09 - 12,0,,,,,,1814
+2024,1,CMPE 224,Data Structures and Algorithms II,03,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D026,Tu 16 - 19,0,,,,,,1814
+2024,1,CMPE 224,Data Structures and Algorithms II,04,Department of Computer Engineering,3,0,0,3,6,Course,Tolga Kurtulu� �ap�n ,D028,Fr 11 - 14,0,,,,,,244
+2024,1,CMPE 224,Data Structures and Algorithms II,05,Department of Computer Engineering,3,0,0,3,6,Course,,DB16,Tu 16 - 19,0,,,,,,
+2024,1,CMPE 232,Database Systems,01,Department of Computer Engineering,3,0,0,3,5,Course,Ay�e Yasemin Seydim ,D030 D028,Tu 09 - 11 Fr 14 - 15,0,,,,,,5863
+2024,1,CMPE 232,Database Systems,02,Department of Computer Engineering,3,0,0,3,5,Course,Ay�e Yasemin Seydim ,D028,We 13 - 15 Fr 15 - 16,0,,,,,,5863
+2024,1,CMPE 232,Database Systems,03,Department of Computer Engineering,3,0,0,3,5,Course,,D032,Mo 09 - 11 We 09 - 10,0,,,,,,
+2024,1,CMPE 232,Database Systems,04,Department of Computer Engineering,3,0,0,3,5,Course,,DB14 D032,Tu 14 - 16 We 10 - 11,0,,,,,,
+2024,1,CMPE 232,Database Systems,05,Department of Computer Engineering,3,0,0,3,5,Course,,D026 D234,Tu 13 - 14 We 13 - 15,0,,,,,,
+2024,1,CMPE 242,Data Structures and Algorithms I,01,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D026,Th 09 - 12,0,,,,,,3019
+2024,1,CMPE 242,Data Structures and Algorithms I,02,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D032,Th 14 - 17,0,,,,,,3019
+2024,1,CMPE 242,Data Structures and Algorithms I,03,Department of Computer Engineering,3,0,0,3,6,Course,Ula� G�le� ,D026,Fr 15 - 18,0,,,,,,3019
+2024,1,CMPE 322,Theory of Computation,01,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB18,Mo 09 - 12,0,,,,,,4099
+2024,1,CMPE 322,Theory of Computation,02,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB16,Mo 13 - 16,0,,,,,,4099
+2024,1,CMPE 322,Theory of Computation,03,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB16,We 09 - 12,0,,,,,,4099
+2024,1,CMPE 322,Theory of Computation,04,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,D030,We 16 - 19,0,,,,,,4099
+2024,1,CMPE 322,Theory of Computation,05,Department of Computer Engineering,3,0,0,3,6,Course,�zlem Albayrak ,DB20,Th 14 - 17,0,,,,,,5055
+2024,1,CMPE 325,Information Security and Cryptography,01,Department of Computer Engineering,3,0,0,3,5,Course,Elif Kurtaran �zbudak ,K085,Tu 09 - 12,0,,,,,,3895
+2024,1,CMPE 325,Information Security and Cryptography,02,Department of Computer Engineering,3,0,0,3,5,Course,Elif Kurtaran �zbudak ,D228,Fr 13 - 16,0,,,,,,3895
+2024,1,CMPE 327,Theory of Computation,01,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB18,Mo 09 - 12,0,,,,,,4099
+2024,1,CMPE 327,Theory of Computation,02,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB16,Mo 13 - 16,0,,,,,,4099
+2024,1,CMPE 327,Theory of Computation,03,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,DB16,We 09 - 12,0,,,,,,4099
+2024,1,CMPE 327,Theory of Computation,04,Department of Computer Engineering,3,0,0,3,6,Course,F�rat Akba ,D030,We 16 - 19,0,,,,,,4099
+2024,1,CMPE 327,Theory of Computation,05,Department of Computer Engineering,3,0,0,3,6,Course,�zlem Albayrak ,DB20,Th 14 - 17,0,,,,,,5055
+2024,1,CMPE 343,Data Structures and Algorithms II,01,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D030,Th 12 - 15,0,,,,,,1814
+2024,1,CMPE 343,Data Structures and Algorithms II,02,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D028,Mo 09 - 12,0,,,,,,1814
+2024,1,CMPE 343,Data Structures and Algorithms II,03,Department of Computer Engineering,3,0,0,3,6,Course,Venera Adanova ,D026,Tu 16 - 19,0,,,,,,1814
+2024,1,CMPE 343,Data Structures and Algorithms II,04,Department of Computer Engineering,3,0,0,3,6,Course,Tolga Kurtulu� �ap�n ,D028,Fr 11 - 14,0,,,,,,244
+2024,1,CMPE 343,Data Structures and Algorithms II,05,Department of Computer Engineering,3,0,0,3,6,Course,,DB16,Tu 16 - 19,0,,,,,,
+2024,1,CMPE 360,Computer Graphics,01,Department of Computer Engineering,3,0,0,3,5,Course,Tolga Kurtulu� �ap�n ,D230,Mo 13 - 16,0,,,,,,244
+2024,1,CMPE 360,Computer Graphics,02,Department of Computer Engineering,3,0,0,3,5,Course,Tolga Kurtulu� �ap�n ,D230,We 13 - 16,0,,,,,,244
+2024,1,CMPE 361,Computer Organization,01,Department of Computer Engineering,2,0,2,3,6,Course,Saiful Islam ,A514-PC-L DB16,Mo 16 - 18 Tu 09 - 11,0,,,,,,4842
+2024,1,CMPE 361,Computer Organization,02,Department of Computer Engineering,2,0,2,3,6,Course,Saiful Islam ,DB18 A514-PC-L,We 09 - 11 Fr 11 - 13,0,,,,,,4842
+2024,1,CMPE 361,Computer Organization,03,Department of Computer Engineering,2,0,2,3,6,Course,M�slim Bozyi�it ,D234 A514-PC-L,Tu 11 - 13 We 16 - 18,0,,,,,,5532
+2024,1,CMPE 361,Computer Organization,04,Department of Computer Engineering,2,0,2,3,6,Course,M�slim Bozyi�it ,A514-PC-L D028,Mo 18 - 20 We 11 - 13,0,,,,,,5532
+2024,1,CMPE 361-O,Computer Organization,1,Department of Computer Engineering,3,0,0,3,5,Course,Saiful Islam ,A514-PC-L DB16,Mo 16 - 18 Tu 09 - 11,0,,,,,,4842
+2024,1,CMPE 361-O,Computer Organization,2,Department of Computer Engineering,3,0,0,3,5,Course,Saiful Islam ,DB18 A514-PC-L,We 09 - 11 Fr 11 - 13,0,,,,,,4842
+2024,1,CMPE 361-O,Computer Organization,3,Department of Computer Engineering,3,0,0,3,5,Course,M�slim Bozyi�it ,D234 A514-PC-L,Tu 11 - 13 We 16 - 18,0,,,,,,5532
+2024,1,CMPE 361-O,Computer Organization,4,Department of Computer Engineering,3,0,0,3,5,Course,M�slim Bozyi�it ,A514-PC-L D028,Mo 18 - 20 We 11 - 13,0,,,,,,5532
+2024,1,CMPE 371,Signals and Systems for Computer Engine,01,Department of Computer Engineering,0,0,0,3,6,Course,G�k�e Nur Y�lmaz ,D032,Tu 13 - 16,0,,,,,,3053
+2024,1,CMPE 371,Signals and Systems for Computer Engine,02,Department of Computer Engineering,0,0,0,3,6,Course,G�k�e Nur Y�lmaz ,DB16,We 13 - 16,0,,,,,,3053
+2024,1,CMPE 371,Signals and Systems for Computer Engine,03,Department of Computer Engineering,0,0,0,3,6,Course,,D026,Fr 09 - 12,0,,,,,,
+2024,1,CMPE 371,Signals and Systems for Computer Engine,04,Department of Computer Engineering,0,0,0,3,6,Course,,D030,Fr 14 - 17,0,,,,,,
+2024,1,CMPE 371,Signals and Systems for Computer Engine,05,Department of Computer Engineering,0,0,0,3,6,Course,Javad Haghighat ,K084,Th 09 - 12,0,,,,,,4595
+2024,1,CMPE 399,Summer Practice I,01,Department of Computer Engineering,1,0,0,1,2,Internship,Ay�e Yasemin Seydim ,,Th 19 - 20,0,,,,,,5863
+2024,1,CMPE 421,Artificial Intelligence,01,Department of Computer Engineering,3,0,0,3,5,Course,,DB14,Mo 16 - 19,0,,,,,,
+2024,1,CMPE 421,Artificial Intelligence,02,Department of Computer Engineering,3,0,0,3,5,Course,,DB14,Tu 16 - 19,0,,,,,,
+2024,1,CMPE 421,Artificial Intelligence,03,Department of Computer Engineering,3,0,0,3,5,Course,,D028,We 18 - 21,0,,,,,,
+2024,1,CMPE 421,Artificial Intelligence,04,Department of Computer Engineering,3,0,0,3,5,Course,,D028,Th 16 - 19,0,,,,,,
+2024,1,CMPE 453,Embedded Systems,01,Department of Computer Engineering,2,0,2,3,6,Course,Saiful Islam ,D232 A514-PC-L,Mo 09 - 11 We 14 - 16,0,,,,,,4842
+2024,1,CMPE 453,Embedded Systems,02,Department of Computer Engineering,2,0,2,3,6,Course,,H007/009-PC DB20,Mo 11 - 13 Tu 09 - 11,0,,,,,,
+2024,1,CMPE 453,Embedded Systems,03,Department of Computer Engineering,2,0,2,3,6,Course,,H007/009-PC DB20,Mo 09 - 11 Tu 11 - 13,0,,,,,,
+2024,1,CMPE 453,Embedded Systems,04,Department of Computer Engineering,2,0,2,3,6,Course,,A514-PC-L DB20,Tu 16 - 18 We 09 - 11,0,,,,,,
+2024,1,CMPE 472,Computer Networks,01,Department of Computer Engineering,2,0,2,3,6,Course,Emin Ku�u ,D234 A514-PC-L,Mo 11 - 13 Tu 11 - 13,0,,,,,,1446
+2024,1,CMPE 472,Computer Networks,02,Department of Computer Engineering,2,0,2,3,6,Course,Emin Ku�u ,D234 A514-PC-L,Tu 13 - 15 We 09 - 11,0,,,,,,1446
+2024,1,CMPE 472,Computer Networks,03,Department of Computer Engineering,2,0,2,3,6,Course,Emin Ku�u ,D234 A514-PC-L,Tu 09 - 11 We 11 - 13,0,,,,,,1446
+2024,1,CMPE 490,Introduction to Research in Computer Eng,01,Department of Computer Engineering,0,6,0,3,6,Course,Tolga Kurtulu� �ap�n ,,Tu 19 - 20,0,,,,,,244
+2024,1,CMPE 491-O,Senior Project I,1,Department of Computer Engineering,1,4,0,3,8,Course,G�k�e Nur Y�lmaz ,,Mo 18 - 19,0,,,,,,3053
+2024,1,CMPE 492-O,Senior Project II,CMPE 492-O,Department of Computer Engineering,1,4,0,3,8,Course,G�k�e Nur Y�lmaz ,,Mo 19 - 20,0,,,,,,3053
+2024,1,CMPE 499-O,Summer Practice II,1,Department of Computer Engineering,1,0,0,1,2,Internship,Ay�e Yasemin Seydim ,,Th 20 - 21,0,,,,,,5863
+2024,1,ENGR 490,Contemporary Issues in Engineering,01,Department of Computer Engineering,2,2,0,3,5,Course,Mehmet R�t� Taner ,,We 16 - 18,0,,,,,,39
+2024,1,ENGR 490,Contemporary Issues in Engineering,02,Department of Computer Engineering,2,2,0,3,5,Course,Kurtulu� Erin� Akdo�an ,,We 16 - 18,0,,,,,,5011
+2024,1,ENGR 490,Contemporary Issues in Engineering,03,Department of Computer Engineering,2,2,0,3,5,Course,Ay�e �a��l Kandemir ,,We 16 - 18,0,,,,,,1517
+2024,1,ENGR 490,Contemporary Issues in Engineering,04,Department of Computer Engineering,2,2,0,3,5,Course,S�rma Karakaya ,,We 16 - 18,0,,,,,,478
+2024,1,BA 110,Introduction to Business,01,Department of Business Administration,3,0,0,3,6,Course,Levent Akdeniz ,DB18,Tu 09 - 12,0,,,,,,5533
+2024,1,BA 201,Introduction to Management,01,Department of Business Administration,3,0,0,3,6,Course,Burze Ya�ar ,D228,Tu 09 - 12,0,,,,,,308
+2024,1,BA 201,Introduction to Management,02,Department of Business Administration,3,0,0,3,6,Course,Burze Ya�ar ,G213,Mo 16 - 19,0,,,,,,308
+2024,1,BA 203,Principles of Financial Accounting,01,Department of Business Administration,3,0,0,3,6,Course,Sadettin Ayd�n Y�ksel ,G112,Mo 09 - 12,0,,,,,,5038
+2024,1,BA 204,Organizational Behavior,01,Department of Business Administration,3,0,0,3,6,Course,K�ymet Duygu Erda� ,G108,Th 09 - 12,0,,,,,,3102
+2024,1,BA 301,Principles of Marketing,01,Department of Business Administration,3,0,0,3,6,Course,Can Armutlu ,G103,Fr 09 - 12,0,,,,,,481
+2024,1,BA 301,Principles of Marketing,02,Department of Business Administration,3,0,0,3,6,Course,Can Armutlu ,G112,Fr 13 - 16,0,,,,,,481
+2024,1,BA 301,Principles of Marketing,03,Department of Business Administration,3,0,0,3,6,Course,Can Armutlu ,D232,Tu 09 - 12,0,,,,,,481
+2024,1,BA 303,Managerial Accounting,01,Department of Business Administration,3,0,0,3,6,Course,Sadettin Ayd�n Y�ksel ,G005,We 13 - 16,0,,,,,,5038
+2024,1,BA 305,Production and Operations Management,01,Department of Business Administration,3,0,0,3,6,Course,Hakan B�t�ner ,D232,Mo 13 - 16,0,,,,,,5021
+2024,1,BA 307,Foundations of Finance,01,Department of Business Administration,3,0,0,3,6,Course,Sadettin Ayd�n Y�ksel ,GB05,Tu 09 - 12,0,,,,,,5038
+2024,1,BA 400-O,Summer Practice II,01,Department of Business Administration,1,0,0,1,2,Internship,Asl� Y�ksel ,,Fr 19 - 20,0,,,,,,5530
+2024,1,BA 401-O,Research Methods,01,Department of Business Administration,3,0,0,3,7,Course,K�ymet Duygu Erda� ,G213,Mo 09 - 12,0,,,,,,3102
+2024,1,BA 402-O,Graduation Paper and Seminar,01,Department of Business Administration,3,0,0,3,7,Course,Asl� Y�ksel ,,Mo 18 - 21,0,,,,,,5530
+2024,1,BA 435,Real Estate Finance,01,Department of Business Administration,3,0,0,3,6,Course,Asl� Y�ksel ,G009,Mo 12 - 15,0,,,,,,5530
+2024,1,BA 442,International Marketing,01,Department of Business Administration,3,0,0,3,6,Course,,F404,We 09 - 12,0,,,,,,
+2024,1,BA 447,Perception Management,01,Department of Business Administration,3,0,0,3,6,Course,,G009,Fr 09 - 12,0,,,,,,
+2024,1,BA 451,Human Resource Management,01,Department of Business Administration,3,0,0,3,6,Course,,G112,Tu 14 - 17,0,,,,,,
+2024,1,BA 461,Consumer Behavior,01,Department of Business Administration,3,0,0,3,6,Course,Can Armutlu ,F417,Tu 14 - 17,0,,,,,,481
+2024,1,BA 464,Brand Management,01,Department of Business Administration,3,0,0,3,6,Course,,G113,Fr 13 - 16,0,,,,,,
+2024,1,BA 466,Advertising,01,Department of Business Administration,3,0,0,3,6,Course,,F404,We 14 - 17,0,,,,,,
+2024,1,BA 473,Project Management,01,Department of Business Administration,3,0,0,3,6,Course,,G103,Th 18 - 21,0,,,,,,

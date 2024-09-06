@@ -1,0 +1,86 @@
+	Year	Period	Code	Name	Section	Dept.	T	P	L	Cr	ECTS	Category	Lecturer	Room	Schedule	# of Students	Successfull	Unsuccessfull	Conditional	Withdrawn	Average	Staff ID	
+	2024	001	CMPE 112	Fundamentals of Programming I	CMPE 112_01	Department of Computer Engineering	1	0	4	3	6	Course		K085 A514-PC-L	We 14 - 16 Th 12 - 14	0 							
+	2024	001	CMPE 112	Fundamentals of Programming I	CMPE 112_02	Department of Computer Engineering	1	0	4	3	6	Course		A514-PC-L K085	Tu 09 - 11 We 16 - 18	0 							
+	2024	001	CMPE 112	Fundamentals of Programming I	CMPE 112_03	Department of Computer Engineering	1	0	4	3	6	Course	Elif Kurtaran Özbudak 	A514-PC-L DB18	Mo 09 - 11 Fr 09 - 11	0 						 00003895 	
+	2024	001	CMPE 113	Fundamentals of Programming I	CMPE 113_01	Department of Computer Engineering	2	0	2	3	5	Course		K085 A514-PC-L	We 14 - 16 Th 12 - 14	0 							
+	2024	001	CMPE 113	Fundamentals of Programming I	CMPE 113_02	Department of Computer Engineering	2	0	2	3	5	Course		A514-PC-L K085	Tu 09 - 11 We 16 - 18	0 							
+	2024	001	CMPE 113	Fundamentals of Programming I	CMPE 113_03	Department of Computer Engineering	2	0	2	3	5	Course	Elif Kurtaran Özbudak 	A514-PC-L DB18	Mo 09 - 11 Fr 09 - 11	0 						 00003895 	
+	2024	001	CMPE 114	Fundamentals of Programming II	CMPE 114_01	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	A514-PC-L D026	We 18 - 20 Th 16 - 18	0 						 00000469 	
+	2024	001	CMPE 114	Fundamentals of Programming II	CMPE 114_02	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	A514-PC-L D026	Tu 14 - 16 Th 18 - 20	0 						 00000469 	
+	2024	001	CMPE 114	Fundamentals of Programming II	CMPE 114_03	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	D028 A514-PC-L	Mo 16 - 18 Tu 18 - 20	0 						 00000469 	
+	2024	001	CMPE 114	Fundamentals of Programming II	CMPE 114_04	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	D028 A514-PC-L	Mo 18 - 20 Fr 18 - 20	0 						 00000469 	
+	2024	001	CMPE 201	Discrete Structures of Mathematics	CMPE 201_01	Department of Computer Engineering	3	0	0	3	6	Course	Niyazi Anýl Gezer 	DB20 K183	Mo 13 - 15 We 15 - 16	0 						 00003329 	
+	2024	001	CMPE 201	Discrete Structures of Mathematics	CMPE 201_02	Department of Computer Engineering	3	0	0	3	6	Course	Ezgi Türkarslan 	DB18	Tu 14 - 16 Th 13 - 14	0 						 00002070 	
+	2024	001	CMPE 201	Discrete Structures of Mathematics	CMPE 201_03	Department of Computer Engineering	3	0	0	3	6	Course	Ezgi Türkarslan 	D232 D030	Mo 11 - 13 We 15 - 16	0 						 00002070 	
+	2024	001	CMPE 211	Fundamentals of Programming II	CMPE 211_01	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	A514-PC-L D026	We 18 - 20 Th 16 - 18	0 						 00000469 	
+	2024	001	CMPE 211	Fundamentals of Programming II	CMPE 211_02	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	A514-PC-L D026	Tu 14 - 16 Th 18 - 20	0 						 00000469 	
+	2024	001	CMPE 211	Fundamentals of Programming II	CMPE 211_03	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	D028 A514-PC-L	Mo 16 - 18 Tu 18 - 20	0 						 00000469 	
+	2024	001	CMPE 211	Fundamentals of Programming II	CMPE 211_04	Department of Computer Engineering	2	0	2	3	6	Course	Eren Ulu 	D028 A514-PC-L	Mo 18 - 20 Fr 18 - 20	0 						 00000469 	
+	2024	001	CMPE 223	Data Structures and Algorithms I	CMPE 223_01	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D026	Th 09 - 12	0 						 00003019 	
+	2024	001	CMPE 223	Data Structures and Algorithms I	CMPE 223_02	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D032	Th 14 - 17	0 						 00003019 	
+	2024	001	CMPE 223	Data Structures and Algorithms I	CMPE 223_03	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D026	Fr 15 - 18	0 						 00003019 	
+	2024	001	CMPE 224	Data Structures and Algorithms II	CMPE 224_01	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D030	Th 12 - 15	0 						 00001814 	
+	2024	001	CMPE 224	Data Structures and Algorithms II	CMPE 224_02	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D028	Mo 09 - 12	0 						 00001814 	
+	2024	001	CMPE 224	Data Structures and Algorithms II	CMPE 224_03	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D026	Tu 16 - 19	0 						 00001814 	
+	2024	001	CMPE 224	Data Structures and Algorithms II	CMPE 224_04	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	D028	Fr 11 - 14	0 						 00000244 	
+	2024	001	CMPE 224	Data Structures and Algorithms II	CMPE 224_05	Department of Computer Engineering	3	0	0	3	6	Course		DB16	Tu 16 - 19	0 							
+	2024	001	CMPE 232	Database Systems	CMPE 232_01	Department of Computer Engineering	3	0	0	3	5	Course	Ayþe Yasemin Seydim 	D030 D028	Tu 09 - 11 Fr 14 - 15	0 						 00005863 	
+	2024	001	CMPE 232	Database Systems	CMPE 232_02	Department of Computer Engineering	3	0	0	3	5	Course	Ayþe Yasemin Seydim 	D028	We 13 - 15 Fr 15 - 16	0 						 00005863 	
+	2024	001	CMPE 232	Database Systems	CMPE 232_03	Department of Computer Engineering	3	0	0	3	5	Course		D032	Mo 09 - 11 We 09 - 10	0 							
+	2024	001	CMPE 232	Database Systems	CMPE 232_04	Department of Computer Engineering	3	0	0	3	5	Course		DB14 D032	Tu 14 - 16 We 10 - 11	0 							
+	2024	001	CMPE 232	Database Systems	CMPE 232_05	Department of Computer Engineering	3	0	0	3	5	Course		D026 D234	Tu 13 - 14 We 13 - 15	0 							
+	2024	001	CMPE 242	Data Structures and Algorithms I	CMPE 242_01	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D026	Th 09 - 12	0 						 00003019 	
+	2024	001	CMPE 242	Data Structures and Algorithms I	CMPE 242_02	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D032	Th 14 - 17	0 						 00003019 	
+	2024	001	CMPE 242	Data Structures and Algorithms I	CMPE 242_03	Department of Computer Engineering	3	0	0	3	6	Course	Ulaþ Güleç 	D026	Fr 15 - 18	0 						 00003019 	
+	2024	001	CMPE 322	Theory of Computation	CMPE 322_01	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB18	Mo 09 - 12	0 						 00004099 	
+	2024	001	CMPE 322	Theory of Computation	CMPE 322_02	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB16	Mo 13 - 16	0 						 00004099 	
+	2024	001	CMPE 322	Theory of Computation	CMPE 322_03	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB16	We 09 - 12	0 						 00004099 	
+	2024	001	CMPE 322	Theory of Computation	CMPE 322_04	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	D030	We 16 - 19	0 						 00004099 	
+	2024	001	CMPE 322	Theory of Computation	CMPE 322_05	Department of Computer Engineering	3	0	0	3	6	Course	Özlem Albayrak 	DB20	Th 14 - 17	0 						 00005055 	
+	2024	001	CMPE 325	Information Security and Cryptography	CMPE 325_01	Department of Computer Engineering	3	0	0	3	5	Course	Elif Kurtaran Özbudak 	K085	Tu 09 - 12	0 						 00003895 	
+	2024	001	CMPE 325	Information Security and Cryptography	CMPE 325_02	Department of Computer Engineering	3	0	0	3	5	Course	Elif Kurtaran Özbudak 	D228	Fr 13 - 16	0 						 00003895 	
+	2024	001	CMPE 327	Theory of Computation	CMPE 327_01	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB18	Mo 09 - 12	0 						 00004099 	
+	2024	001	CMPE 327	Theory of Computation	CMPE 327_02	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB16	Mo 13 - 16	0 						 00004099 	
+	2024	001	CMPE 327	Theory of Computation	CMPE 327_03	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	DB16	We 09 - 12	0 						 00004099 	
+	2024	001	CMPE 327	Theory of Computation	CMPE 327_04	Department of Computer Engineering	3	0	0	3	6	Course	Fýrat Akba 	D030	We 16 - 19	0 						 00004099 	
+	2024	001	CMPE 327	Theory of Computation	CMPE 327_05	Department of Computer Engineering	3	0	0	3	6	Course	Özlem Albayrak 	DB20	Th 14 - 17	0 						 00005055 	
+	2024	001	CMPE 343	Data Structures and Algorithms II	CMPE 343_01	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D030	Th 12 - 15	0 						 00001814 	
+	2024	001	CMPE 343	Data Structures and Algorithms II	CMPE 343_02	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D028	Mo 09 - 12	0 						 00001814 	
+	2024	001	CMPE 343	Data Structures and Algorithms II	CMPE 343_03	Department of Computer Engineering	3	0	0	3	6	Course	Venera Adanova 	D026	Tu 16 - 19	0 						 00001814 	
+	2024	001	CMPE 343	Data Structures and Algorithms II	CMPE 343_04	Department of Computer Engineering	3	0	0	3	6	Course	Tolga Kurtuluþ Çapýn 	D028	Fr 11 - 14	0 						 00000244 	
+	2024	001	CMPE 343	Data Structures and Algorithms II	CMPE 343_05	Department of Computer Engineering	3	0	0	3	6	Course		DB16	Tu 16 - 19	0 							
+	2024	001	CMPE 360	Computer Graphics	CMPE 360_01	Department of Computer Engineering	3	0	0	3	5	Course	Tolga Kurtuluþ Çapýn 	D230	Mo 13 - 16	0 						 00000244 	
+	2024	001	CMPE 360	Computer Graphics	CMPE 360_02	Department of Computer Engineering	3	0	0	3	5	Course	Tolga Kurtuluþ Çapýn 	D230	We 13 - 16	0 						 00000244 	
+	2024	001	CMPE 361	Computer Organization	CMPE 361_01	Department of Computer Engineering	2	0	2	3	6	Course	Saiful Islam 	A514-PC-L DB16	Mo 16 - 18 Tu 09 - 11	0 						 00004842 	
+	2024	001	CMPE 361	Computer Organization	CMPE 361_02	Department of Computer Engineering	2	0	2	3	6	Course	Saiful Islam 	DB18 A514-PC-L	We 09 - 11 Fr 11 - 13	0 						 00004842 	
+	2024	001	CMPE 361	Computer Organization	CMPE 361_03	Department of Computer Engineering	2	0	2	3	6	Course	Müslim Bozyiðit 	D234 A514-PC-L	Tu 11 - 13 We 16 - 18	0 						 00005532 	
+	2024	001	CMPE 361	Computer Organization	CMPE 361_04	Department of Computer Engineering	2	0	2	3	6	Course	Müslim Bozyiðit 	A514-PC-L D028	Mo 18 - 20 We 11 - 13	0 						 00005532 	
+	2024	001	CMPE 361-O	Computer Organization	CMPE 361-O_1	Department of Computer Engineering	3	0	0	3	5	Course	Saiful Islam 	A514-PC-L DB16	Mo 16 - 18 Tu 09 - 11	0 						 00004842 	
+	2024	001	CMPE 361-O	Computer Organization	CMPE 361-O_2	Department of Computer Engineering	3	0	0	3	5	Course	Saiful Islam 	DB18 A514-PC-L	We 09 - 11 Fr 11 - 13	0 						 00004842 	
+	2024	001	CMPE 361-O	Computer Organization	CMPE 361-O_3	Department of Computer Engineering	3	0	0	3	5	Course	Müslim Bozyiðit 	D234 A514-PC-L	Tu 11 - 13 We 16 - 18	0 						 00005532 	
+	2024	001	CMPE 361-O	Computer Organization	CMPE 361-O_4	Department of Computer Engineering	3	0	0	3	5	Course	Müslim Bozyiðit 	A514-PC-L D028	Mo 18 - 20 We 11 - 13	0 						 00005532 	
+	2024	001	CMPE 371	Signals and Systems for Computer Engine	CMPE 371_01	Department of Computer Engineering	0	0	0	3	6	Course	Gökçe Nur Yýlmaz 	D032	Tu 13 - 16	0 						 00003053 	
+	2024	001	CMPE 371	Signals and Systems for Computer Engine	CMPE 371_02	Department of Computer Engineering	0	0	0	3	6	Course	Gökçe Nur Yýlmaz 	DB16	We 13 - 16	0 						 00003053 	
+	2024	001	CMPE 371	Signals and Systems for Computer Engine	CMPE 371_03	Department of Computer Engineering	0	0	0	3	6	Course		D026	Fr 09 - 12	0 							
+	2024	001	CMPE 371	Signals and Systems for Computer Engine	CMPE 371_04	Department of Computer Engineering	0	0	0	3	6	Course		D030	Fr 14 - 17	0 							
+	2024	001	CMPE 371	Signals and Systems for Computer Engine	CMPE 371_05	Department of Computer Engineering	0	0	0	3	6	Course	Javad Haghighat 	K084	Th 09 - 12	0 						 00004595 	
+	2024	001	CMPE 399	Summer Practice I	CMPE 399_01	Department of Computer Engineering	1	0	0	1	2	Internship	Ayþe Yasemin Seydim 		Th 19 - 20	0 						 00005863 	
+	2024	001	CMPE 421	Artificial Intelligence	CMPE 421_01	Department of Computer Engineering	3	0	0	3	5	Course		DB14	Mo 16 - 19	0 							
+	2024	001	CMPE 421	Artificial Intelligence	CMPE 421_02	Department of Computer Engineering	3	0	0	3	5	Course		DB14	Tu 16 - 19	0 							
+	2024	001	CMPE 421	Artificial Intelligence	CMPE 421_03	Department of Computer Engineering	3	0	0	3	5	Course		D028	We 18 - 21	0 							
+	2024	001	CMPE 421	Artificial Intelligence	CMPE 421_04	Department of Computer Engineering	3	0	0	3	5	Course		D028	Th 16 - 19	0 							
+	2024	001	CMPE 453	Embedded Systems	CMPE 453_01	Department of Computer Engineering	2	0	2	3	6	Course	Saiful Islam 	D232 A514-PC-L	Mo 09 - 11 We 14 - 16	0 						 00004842 	
+	2024	001	CMPE 453	Embedded Systems	CMPE 453_02	Department of Computer Engineering	2	0	2	3	6	Course		H007/009-PC DB20	Mo 11 - 13 Tu 09 - 11	0 							
+	2024	001	CMPE 453	Embedded Systems	CMPE 453_03	Department of Computer Engineering	2	0	2	3	6	Course		H007/009-PC DB20	Mo 09 - 11 Tu 11 - 13	0 							
+	2024	001	CMPE 453	Embedded Systems	CMPE 453_04	Department of Computer Engineering	2	0	2	3	6	Course		A514-PC-L DB20	Tu 16 - 18 We 09 - 11	0 							
+	2024	001	CMPE 472	Computer Networks	CMPE 472_01	Department of Computer Engineering	2	0	2	3	6	Course	Emin Kuðu 	D234 A514-PC-L	Mo 11 - 13 Tu 11 - 13	0 						 00001446 	
+	2024	001	CMPE 472	Computer Networks	CMPE 472_02	Department of Computer Engineering	2	0	2	3	6	Course	Emin Kuðu 	D234 A514-PC-L	Tu 13 - 15 We 09 - 11	0 						 00001446 	
+	2024	001	CMPE 472	Computer Networks	CMPE 472_03	Department of Computer Engineering	2	0	2	3	6	Course	Emin Kuðu 	D234 A514-PC-L	Tu 09 - 11 We 11 - 13	0 						 00001446 	
+	2024	001	CMPE 490	Introduction to Research in Computer Eng	CMPE 490_01	Department of Computer Engineering	0	6	0	3	6	Course	Tolga Kurtuluþ Çapýn 		Tu 19 - 20	0 						 00000244 	
+	2024	001	CMPE 491-O	Senior Project I	CMPE 491-O_1	Department of Computer Engineering	1	4	0	3	8	Course	Gökçe Nur Yýlmaz 		Mo 18 - 19	0 						 00003053 	
+	2024	001	CMPE 492-O	Senior Project II	CMPE 492-O	Department of Computer Engineering	1	4	0	3	8	Course	Gökçe Nur Yýlmaz 		Mo 19 - 20	0 						 00003053 	
+	2024	001	CMPE 499-O	Summer Practice II	CMPE 499-O_1	Department of Computer Engineering	1	0	0	1	2	Internship	Ayþe Yasemin Seydim 		Th 20 - 21	0 						 00005863 	
+	2024	001	ENGR 490	Contemporary Issues in Engineering	ENGR 490_01	Department of Computer Engineering	2	2	0	3	5	Course	Mehmet Rüþtü Taner 		We 16 - 18	0 						 00000039 	
+	2024	001	ENGR 490	Contemporary Issues in Engineering	ENGR 490_02	Department of Computer Engineering	2	2	0	3	5	Course	Kurtuluþ Erinç Akdoðan 		We 16 - 18	0 						 00005011 	
+	2024	001	ENGR 490	Contemporary Issues in Engineering	ENGR 490_03	Department of Computer Engineering	2	2	0	3	5	Course	Ayþe Çaðýl Kandemir 		We 16 - 18	0 						 00001517 	
+	2024	001	ENGR 490	Contemporary Issues in Engineering	ENGR 490_04	Department of Computer Engineering	2	2	0	3	5	Course	Sýrma Karakaya 		We 16 - 18	0 						 00000478 	

@@ -1,5 +1,5 @@
 {
-	"file_name":"corses.csv",
+	"file_name":"courses.csv",
 	"wanted_cols":{
 		"Code": "Code",
 		"Schedule" : "Schedule",
@@ -9,6 +9,10 @@
 	},
 	"out_file" : "programs.txt",
 	"needed_courses":[
+		"CMPE 453",
+		"ENGR 490",
+		"CMPE 421",
+		"CMPE 361"
 	],
 	"wanted_courses":[
 	]
