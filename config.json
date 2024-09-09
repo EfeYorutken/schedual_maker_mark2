@@ -7,12 +7,13 @@
 		"extras": {
 		}
 	},
-	"out_file" : "programs.txt",
+	"out_file" : "programs_ba435.txt",
 	"needed_courses":[
 		"CMPE 453",
 		"ENGR 490",
 		"CMPE 421",
-		"CMPE 361"
+		"CMPE 361",
+		"BA 435"
 	],
 	"wanted_courses":[
 	]

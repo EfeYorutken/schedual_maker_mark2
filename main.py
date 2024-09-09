@@ -221,6 +221,6 @@ print(f"alternative courses are printed into {out_file}")
 with open(out_file, "w") as f:
     for program in programs:
         title = f"Program #{programs.index(program)} : {graph.score_program(program, fn_list)}/{len(fn_list)}\n"
-        f.writelines(title + show(program) + "\n"*3)
+        f.writelines(title + show(program) + "\n" + " ".join([f"{x.code}_{x.section}" for x in program])+ "\n"*3)
 
 print(f"all programs writeen to {out_file}")

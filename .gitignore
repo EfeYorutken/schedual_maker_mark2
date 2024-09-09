@@ -6,3 +6,6 @@ test.csv
 test_functions.py
 test.py
 todo.md
+*.txt
+*.csv
+*.md
